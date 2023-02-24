@@ -14,7 +14,7 @@ body {
 .hero {
     width: 720px;
     height: 340px;
-    background-image: url("assets/images/city.jpg");
+    background-image: url("assets/styles/city.jpg");
     background-size: cover;
     border-radius: 10px;
     text-align: center;
